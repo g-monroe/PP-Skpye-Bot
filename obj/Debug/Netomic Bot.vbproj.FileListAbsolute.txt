@@ -1,0 +1,140 @@
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\AppData\Local\Temporary Projects\Netomic Bot\obj\Debug\Netomic_Bot.Form1.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Netomic Bot\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\User\Documents\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\Desktop\Source\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Source\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Source\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Source\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Desktop\Source\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\Desktop\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Desktop\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\Desktop\Netomic Bot\Source\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Netomic Bot\Source\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\Netomic Bot\Source\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\Netomic Bot\Source\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Desktop\Netomic Bot\Source\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic Bot.exe
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic Bot.xml
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\bin\Debug\Netomic Bot.exe
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\bin\Debug\Netomic Bot.xml
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\User\Desktop\VB.NET\Netomic Products\Projects\Netomic Skype Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\Desktop\updated\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Desktop\updated\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\updated\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\updated\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\updated\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Desktop\updated\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Netro\Desktop\UPPADADA\bin\Debug\Netomic Bot.exe.config
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\UPPADADA\bin\Debug\Netomic Bot.exe
+C:\Users\Netro\Desktop\UPPADADA\bin\Debug\Netomic Bot.pdb
+C:\Users\Netro\Desktop\UPPADADA\bin\Debug\Netomic Bot.xml
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Netro\Desktop\UPPADADA\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Netomic Bot\bin\Debug\Netomic Bot.exe.config
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.vbproj.ResolveComReference.cache
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.exe
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.xml
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.pdb
+C:\Users\Kevin\Desktop\Netomic Bot\bin\Debug\Netomic Bot.exe
+C:\Users\Kevin\Desktop\Netomic Bot\bin\Debug\Netomic Bot.pdb
+C:\Users\Kevin\Desktop\Netomic Bot\bin\Debug\Netomic Bot.xml
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.Main.resources
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.Resources.resources
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic_Bot.ThemeContainer154.resources
+C:\Users\Kevin\Desktop\Netomic Bot\obj\Debug\Netomic Bot.vbproj.GenerateResource.Cache
